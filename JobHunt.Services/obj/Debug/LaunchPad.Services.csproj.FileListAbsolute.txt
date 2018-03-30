@@ -1,0 +1,239 @@
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\LaunchPad.Services.dll.config
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\LaunchPad.Services.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\LaunchPad.Services.pdb
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\AutoMapper.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DocumentFormat.OpenXml.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\EntityFramework.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\EPPlus.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\LaunchPad.Common.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\LaunchPad.Core.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\LaunchPad.DataAccess.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\log4net.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\Newtonsoft.Json.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\NPOI.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\NPOI.OOXML.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\NPOI.OpenXml4Net.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\RazorEngine.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\RestSharp.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\System.Web.Helpers.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\System.Web.Mvc.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\System.Web.Razor.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\System.Web.WebPages.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\System.Web.WebPages.Razor.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.Web.Mvc5.v13.1.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.Web.v13.1.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.XtraCharts.v13.1.Web.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.XtraCharts.v13.1.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.Data.v13.1.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.Web.ASPxHtmlEditor.v13.1.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.Web.ASPxSpellChecker.v13.1.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.Web.ASPxPivotGrid.v13.1.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.PivotGrid.v13.1.Core.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.XtraReports.v13.1.Web.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.Web.ASPxScheduler.v13.1.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.XtraScheduler.v13.1.Core.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.Web.ASPxTreeList.v13.1.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.Printing.v13.1.Core.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.XtraReports.v13.1.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.XtraScheduler.v13.1.iCalendarExchange.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.RichEdit.v13.1.Core.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.Charts.v13.1.Core.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.Utils.v13.1.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.Office.v13.1.Core.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.SpellChecker.v13.1.Core.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.Sparkline.v13.1.Core.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\LaunchPad.Common.pdb
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\LaunchPad.Core.pdb
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\LaunchPad.DataAccess.pdb
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\AutoMapper.xml
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\EntityFramework.xml
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\EPPlus.xml
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\log4net.xml
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\Newtonsoft.Json.xml
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\NPOI.xml
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\RazorEngine.xml
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\RestSharp.xml
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\System.Web.Helpers.xml
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\System.Web.Mvc.xml
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\System.Web.Razor.xml
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\System.Web.WebPages.xml
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\System.Web.WebPages.Razor.xml
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.Web.v13.1.xml
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.XtraCharts.v13.1.Web.xml
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.XtraCharts.v13.1.xml
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.Data.v13.1.xml
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.Web.ASPxHtmlEditor.v13.1.xml
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.Web.ASPxSpellChecker.v13.1.xml
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.Web.ASPxPivotGrid.v13.1.xml
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.PivotGrid.v13.1.Core.xml
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.XtraReports.v13.1.Web.xml
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.Web.ASPxScheduler.v13.1.xml
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.XtraScheduler.v13.1.Core.xml
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.Web.ASPxTreeList.v13.1.xml
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.Printing.v13.1.Core.xml
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.XtraReports.v13.1.xml
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.XtraScheduler.v13.1.iCalendarExchange.xml
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.RichEdit.v13.1.Core.xml
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.Utils.v13.1.xml
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.Office.v13.1.Core.xml
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\DevExpress.Sparkline.v13.1.Core.xml
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\de\DevExpress.Web.v13.1.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\es\DevExpress.Web.v13.1.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\ja\DevExpress.Web.v13.1.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\ru\DevExpress.Web.v13.1.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\de\DevExpress.XtraCharts.v13.1.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\es\DevExpress.XtraCharts.v13.1.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\ja\DevExpress.XtraCharts.v13.1.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\ru\DevExpress.XtraCharts.v13.1.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\de\DevExpress.Data.v13.1.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\es\DevExpress.Data.v13.1.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\ja\DevExpress.Data.v13.1.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\ru\DevExpress.Data.v13.1.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\de\DevExpress.Web.ASPxHtmlEditor.v13.1.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\es\DevExpress.Web.ASPxHtmlEditor.v13.1.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\ja\DevExpress.Web.ASPxHtmlEditor.v13.1.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\ru\DevExpress.Web.ASPxHtmlEditor.v13.1.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\de\DevExpress.Web.ASPxSpellChecker.v13.1.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\es\DevExpress.Web.ASPxSpellChecker.v13.1.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\ja\DevExpress.Web.ASPxSpellChecker.v13.1.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\ru\DevExpress.Web.ASPxSpellChecker.v13.1.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\de\DevExpress.PivotGrid.v13.1.Core.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\es\DevExpress.PivotGrid.v13.1.Core.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\ja\DevExpress.PivotGrid.v13.1.Core.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\ru\DevExpress.PivotGrid.v13.1.Core.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\de\DevExpress.XtraReports.v13.1.Web.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\es\DevExpress.XtraReports.v13.1.Web.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\ja\DevExpress.XtraReports.v13.1.Web.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\ru\DevExpress.XtraReports.v13.1.Web.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\de\DevExpress.Web.ASPxScheduler.v13.1.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\es\DevExpress.Web.ASPxScheduler.v13.1.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\ja\DevExpress.Web.ASPxScheduler.v13.1.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\ru\DevExpress.Web.ASPxScheduler.v13.1.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\de\DevExpress.XtraScheduler.v13.1.Core.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\es\DevExpress.XtraScheduler.v13.1.Core.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\ja\DevExpress.XtraScheduler.v13.1.Core.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\ru\DevExpress.XtraScheduler.v13.1.Core.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\de\DevExpress.Web.ASPxTreeList.v13.1.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\es\DevExpress.Web.ASPxTreeList.v13.1.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\ja\DevExpress.Web.ASPxTreeList.v13.1.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\ru\DevExpress.Web.ASPxTreeList.v13.1.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\de\DevExpress.Printing.v13.1.Core.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\es\DevExpress.Printing.v13.1.Core.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\ja\DevExpress.Printing.v13.1.Core.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\ru\DevExpress.Printing.v13.1.Core.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\de\DevExpress.XtraReports.v13.1.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\es\DevExpress.XtraReports.v13.1.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\ja\DevExpress.XtraReports.v13.1.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\ru\DevExpress.XtraReports.v13.1.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\de\DevExpress.RichEdit.v13.1.Core.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\es\DevExpress.RichEdit.v13.1.Core.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\ja\DevExpress.RichEdit.v13.1.Core.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\ru\DevExpress.RichEdit.v13.1.Core.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\de\DevExpress.Utils.v13.1.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\es\DevExpress.Utils.v13.1.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\ja\DevExpress.Utils.v13.1.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\ru\DevExpress.Utils.v13.1.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\de\DevExpress.Office.v13.1.Core.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\es\DevExpress.Office.v13.1.Core.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\ja\DevExpress.Office.v13.1.Core.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\ru\DevExpress.Office.v13.1.Core.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\bin\Debug\ru\DevExpress.Sparkline.v13.1.Core.resources.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\obj\Debug\LaunchPad.Services.csprojResolveAssemblyReference.cache
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\obj\Debug\LaunchPad.Services.dll
+D:\LaunchPad\Source 249 LP\LaunchPad\LaunchPad.Services\obj\Debug\LaunchPad.Services.pdb
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\obj\Debug\LaunchPad.Services.csprojResolveAssemblyReference.cache
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\obj\Debug\LaunchPad.Services.dll
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\obj\Debug\LaunchPad.Services.pdb
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\LaunchPad.Services.dll.config
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\LaunchPad.Services.dll
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\LaunchPad.Services.pdb
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\AutoMapper.dll
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\EntityFramework.dll
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\EPPlus.dll
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\log4net.dll
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\Newtonsoft.Json.dll
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\NPOI.dll
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\NPOI.OOXML.dll
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\NPOI.OpenXml4Net.dll
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\RazorEngine.dll
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\RestSharp.dll
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\System.Web.Helpers.dll
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\System.Web.Mvc.dll
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\System.Web.Razor.dll
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\System.Web.WebPages.dll
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\AutoMapper.xml
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\EntityFramework.xml
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\EPPlus.xml
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\log4net.xml
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\Newtonsoft.Json.xml
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\NPOI.xml
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\RazorEngine.xml
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\RestSharp.xml
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\System.Web.Helpers.xml
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\System.Web.Mvc.xml
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\System.Web.Razor.xml
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\System.Web.WebPages.xml
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\iKPORT.Data.dll
+D:\Work\StartUp\Server\LaunchPad\LaunchPad.Services\bin\Debug\iKPORT.Data.pdb
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\obj\Debug\LaunchPad.Services.csprojResolveAssemblyReference.cache
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\obj\Debug\LaunchPad.Services.dll
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\obj\Debug\LaunchPad.Services.pdb
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\LaunchPad.Services.dll.config
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\LaunchPad.Services.dll
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\LaunchPad.Services.pdb
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\AutoMapper.dll
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\DocumentFormat.OpenXml.dll
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\EntityFramework.dll
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\EPPlus.dll
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\log4net.dll
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\Newtonsoft.Json.dll
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\NPOI.dll
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\NPOI.OOXML.dll
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\NPOI.OpenXml4Net.dll
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\RazorEngine.dll
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\RestSharp.dll
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\System.Web.Helpers.dll
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\System.Web.Mvc.dll
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\System.Web.Razor.dll
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\System.Web.WebPages.dll
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\AutoMapper.xml
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\EntityFramework.xml
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\EPPlus.xml
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\log4net.xml
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\Newtonsoft.Json.xml
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\NPOI.xml
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\RazorEngine.xml
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\RestSharp.xml
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\System.Web.Helpers.xml
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\System.Web.Mvc.xml
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\System.Web.Razor.xml
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\System.Web.WebPages.xml
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\JobHunt.Data.dll
+D:\Work\Demo\Server\LaunchPad\LaunchPad.Services\bin\Debug\JobHunt.Data.pdb
+D:\Work\Demo\Server\LaunchPad\JobHunt.Services\obj\Debug\LaunchPad.Services.csprojResolveAssemblyReference.cache
