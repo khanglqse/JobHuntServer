@@ -33,7 +33,12 @@ namespace JobHunt.Data.Repository.Implements
             return _context.Set<T>().Where(record => !record.IsDelete);
         }
 
-        public IQueryable<T> GetQuerry()
+        public IQueryable<T> GetQuery()
+        {
+            return _context.Set<T>().AsQueryable();
+        }
+
+        public IQueryable<T> GetAll()
         {
             return _context.Set<T>().AsQueryable();
         }

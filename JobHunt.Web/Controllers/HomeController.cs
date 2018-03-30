@@ -9,22 +9,18 @@ namespace JobHunt.Web.Controllers
 {
     public class HomeController : Controller
     {
-        private IEmployerService _emService;
 
-        public HomeController(IEmployerService emService)
+        public HomeController()
         {
-            _emService = emService;
         }
 
         public ActionResult Index()
         {
-           var a =  _emService.CreateEmployer();
             return View();
         }
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
 
             return View();
         }

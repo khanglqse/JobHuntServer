@@ -99,15 +99,6 @@ $(document).on('ready',function(){
         $(this).toggleClass('closed');
     });
 
-    $('.tree_widget-sec > ul > li.inner-child:first > ul').slideDown();
-    $('.tree_widget-sec > ul > li.inner-child:first').addClass('active');
-    $('.tree_widget-sec > ul > li.inner-child > a').on('click', function(){
-        $('.tree_widget-sec > ul > li.inner-child').removeClass('active');
-        $('.tree_widget-sec > ul > li > ul').slideUp();
-        $(this).parent().addClass('active');
-        $(this).next('ul').slideDown();
-        return false;
-    });
 
     $('.btns-profiles-sec > span').on('click', function(){
         $('.btns-profiles-sec > ul').fadeToggle();

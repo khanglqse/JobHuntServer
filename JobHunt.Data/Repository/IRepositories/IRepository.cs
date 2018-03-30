@@ -19,7 +19,8 @@ namespace JobHunt.Data.Repository.IRepositories
         /// </summary>
         /// <returns></returns>
         IQueryable<T> GetWithDelete();
-        IQueryable<T> GetQuerry();
+        IQueryable<T> GetQuery();
+        IQueryable<T> GetAll();
 
 
         /// <summary>

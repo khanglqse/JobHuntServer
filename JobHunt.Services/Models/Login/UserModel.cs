@@ -9,7 +9,7 @@ namespace JobHunt.Services.Models.Login
     {
         public UserModel()
         {
-            UpdatedAt = DateTime.Now;
+            UpdAt = DateTime.Now;
             IsActive = true;
             CostCenterIds = new List<Guid>();
         }

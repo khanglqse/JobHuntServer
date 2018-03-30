@@ -5,11 +5,15 @@ namespace JobHunt.Services.Models
     [Serializable]
     public class BaseModel
     {
-        public Guid Id { get; set; }
-        public bool IsDeleted { get; set; }
-        public Guid InsertedBy { get; set; }
-        public DateTime InsertedAt { get; set; }
-        public Guid UpdatedBy { get; set; }
-        public DateTime UpdatedAt { get; set; }
+ public Guid Id { get; set; }
+        public bool IsDelete { get; set; }
+
+        public DateTime InsAt { get; set; }
+
+        public string InsBy { get; set; }
+
+        public DateTime UpdAt { get; set; }
+
+        public string UpdBy { get; set; }
     }
 }

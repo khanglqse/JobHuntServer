@@ -11,13 +11,10 @@ using JobHunt.Services.Models.JobHunt.Employer;
 
 namespace JobHunt.Services.Services.Interfaces
 {
-    public interface IEmployerService
+    public interface IAuthenticationService
     {
   
-        List<EmployerSearchResultViewModel> GetAll();
-      Task<EmployerDetailViewModel> GetEmployerById(Guid Id);
-        Employers CreateEmployer();
-        Task<PaginatedResult<EmployerSearchResultViewModel>> SearchEmployer(SearchEmployerModel model);
+        UserProfileModel Login(string userName, string password);
 
     }
 }
