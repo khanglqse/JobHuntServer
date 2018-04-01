@@ -11,8 +11,6 @@ D:\Work\Demo\Server\LaunchPad\iKPORT.Data\obj\Debug\JobHunt.Data.csprojResolveAs
 D:\Work\Demo\Server\LaunchPad\iKPORT.Data\obj\Debug\JobHunt.Data.dll
 D:\Work\Demo\Server\LaunchPad\iKPORT.Data\obj\Debug\JobHunt.Data.pdb
 D:\Work\Demo\Server\JobHunt\JobHunt.Data\obj\Debug\JobHunt.Data.csprojResolveAssemblyReference.cache
-D:\Work\Demo\Server\JobHunt\JobHunt.Data\obj\Debug\JobHunt.Data.Migrations.Init.resources
-D:\Work\Demo\Server\JobHunt\JobHunt.Data\obj\Debug\JobHunt.Data.csproj.GenerateResource.Cache
 D:\Work\Demo\Server\JobHunt\JobHunt.Data\obj\Debug\JobHunt.Data.dll
 D:\Work\Demo\Server\JobHunt\JobHunt.Data\obj\Debug\JobHunt.Data.pdb
 D:\Work\Demo\Server\JobHunt\JobHunt.Data\bin\Debug\JobHunt.Data.dll.config
@@ -22,3 +20,5 @@ D:\Work\Demo\Server\JobHunt\JobHunt.Data\bin\Debug\EntityFramework.dll
 D:\Work\Demo\Server\JobHunt\JobHunt.Data\bin\Debug\EntityFramework.SqlServer.dll
 D:\Work\Demo\Server\JobHunt\JobHunt.Data\bin\Debug\EntityFramework.xml
 D:\Work\Demo\Server\JobHunt\JobHunt.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Work\Demo\Server\JobHunt\JobHunt.Data\obj\Debug\JobHunt.Data.Migrations.RemoveRole.resources
+D:\Work\Demo\Server\JobHunt\JobHunt.Data\obj\Debug\JobHunt.Data.csproj.GenerateResource.Cache

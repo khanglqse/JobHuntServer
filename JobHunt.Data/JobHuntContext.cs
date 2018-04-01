@@ -22,9 +22,8 @@ namespace JobHunt.Data
         public virtual DbSet<User> User { get; set; }
         public virtual DbSet<Address> Address { get; set; }
         public virtual DbSet<Contact> Contact { get; set; }
-        public virtual DbSet<Employers> Employers { get; set; }
+        public virtual DbSet<Employer> Employers { get; set; }
         public virtual DbSet<Job> Job { get; set; }
-        public virtual DbSet<Role> Role { get; set; }
         public virtual DbSet<EmailQueue> EmailQueue { get; set; }
         public virtual DbSet<DeliveriedEmail> DeliveriedEmail { get; set; }
         public virtual DbSet<EmailTemplate> EmailTemplate { get; set; }

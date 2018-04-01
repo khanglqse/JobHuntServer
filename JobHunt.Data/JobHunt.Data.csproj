@@ -58,17 +58,16 @@
     <Compile Include="Entities\Email\EmailTemplate.cs" />
     <Compile Include="Entities\JobHunt\Address.cs" />
     <Compile Include="Entities\JobHunt\Contact.cs" />
-    <Compile Include="Entities\JobHunt\Employers.cs" />
+    <Compile Include="Entities\JobHunt\Employer.cs" />
     <Compile Include="Entities\JobHunt\Job.cs" />
-    <Compile Include="Entities\Login\Role.cs" />
     <Compile Include="Entities\Login\User.cs" />
     <Compile Include="IUnitOfWork.cs" />
     <Compile Include="Entities\EntityBase.cs" />
     <Compile Include="IEntityContext.cs" />
     <Compile Include="JobHuntContext.cs" />
-    <Compile Include="Migrations\201803291152378_Init.cs" />
-    <Compile Include="Migrations\201803291152378_Init.Designer.cs">
-      <DependentUpon>201803291152378_Init.cs</DependentUpon>
+    <Compile Include="Migrations\201803311349232_RemoveRole.cs" />
+    <Compile Include="Migrations\201803311349232_RemoveRole.Designer.cs">
+      <DependentUpon>201803311349232_RemoveRole.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -81,8 +80,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201803291152378_Init.resx">
-      <DependentUpon>201803291152378_Init.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201803311349232_RemoveRole.resx">
+      <DependentUpon>201803311349232_RemoveRole.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

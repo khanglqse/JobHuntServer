@@ -12,7 +12,6 @@ namespace JobHunt.Services.Models.Administration
     {
         public string Name { get; set; }
         public string DisplayName { get; set; }
-        public List<Role> Role { get; set; }
         public string UserName { get; internal set; }
     }
 }

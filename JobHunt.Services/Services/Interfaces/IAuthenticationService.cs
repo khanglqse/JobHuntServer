@@ -8,6 +8,7 @@ using JobHunt.Data.Entities.JobHunt;
 using JobHunt.Services.Models;
 using JobHunt.Services.Models.JobHunt;
 using JobHunt.Services.Models.JobHunt.Employer;
+using JobHunt.Services.Models.Login;
 
 namespace JobHunt.Services.Services.Interfaces
 {
@@ -16,5 +17,6 @@ namespace JobHunt.Services.Services.Interfaces
   
         UserProfileModel Login(string userName, string password);
 
+        bool CreateUser(SignOnModel model);
     }
 }

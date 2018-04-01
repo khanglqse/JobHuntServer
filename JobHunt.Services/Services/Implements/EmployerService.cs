@@ -30,7 +30,7 @@ namespace JobHunt.Services.Services.Implements
 
         public async Task<EmployerDetailViewModel> GetEmployerById(Guid Id)
         {
-            var result = await _unitOfWork.Repository<Employers>().GetById(Id).Select(e => new EmployerDetailViewModel
+            var result = await _unitOfWork.Repository<Employer>().GetById(Id).Select(e => new EmployerDetailViewModel
             {
                 Title = e.Title,
                 Followers = e.Followers,
@@ -40,14 +40,14 @@ namespace JobHunt.Services.Services.Implements
         }
 
 
-        public Employers CreateEmployer()
+        public Employer CreateEmployer()
         {
-            return _unitOfWork.Repository<Employers>().GetQuery().FirstOrDefault();
+            return _unitOfWork.Repository<Employer>().GetQuery().FirstOrDefault();
         }
 
         public async Task<PaginatedResult<EmployerSearchResultViewModel>> SearchEmployer(SearchEmployerModel model)
         {
-            var querry = _unitOfWork.Repository<Employers>().GetQuery();
+            var querry = _unitOfWork.Repository<Employer>().GetQuery();
             if (!string.IsNullOrEmpty(model.Keyword))
             {
                 querry = querry.Where(e => e.Title.Contains(model.Keyword));

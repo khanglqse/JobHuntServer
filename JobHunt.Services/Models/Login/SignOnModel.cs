@@ -6,10 +6,12 @@ namespace JobHunt.Services.Models.Login
     public class SignOnModel
     {
         public string Username { get; set; }
-        public string Domain { get; set; }
-        public string AccessToken { get; set; }
-        public string RegistrationToken { get; set; }
-        public bool LoggedOut { get; set; }
+        public string FirstName { get; set; }
+        public string MiddleName { get; set; }
+        public string LastName { get; set; }
+        public string FullName { get; set; }
+        public string Email { get; set; }
+
         public string Platform { get; set; }
     }
 }

@@ -1,8 +1,9 @@
-using System.Data.Entity.Migrations;
-
 namespace JobHunt.Data.Migrations
 {
-    public partial class Init : DbMigration
+    using System;
+    using System.Data.Entity.Migrations;
+    
+    public partial class RemoveRole : DbMigration
     {
         public override void Up()
         {
@@ -144,6 +145,7 @@ namespace JobHunt.Data.Migrations
                         LogoImage = c.String(),
                         LongDescription = c.Int(nullable: false),
                         Followers = c.Int(nullable: false),
+                        UserId = c.Guid(nullable: false),
                         IsDelete = c.Boolean(nullable: false),
                         InsAt = c.DateTime(nullable: false),
                         InsBy = c.String(),
@@ -155,6 +157,8 @@ namespace JobHunt.Data.Migrations
                 .PrimaryKey(t => t.Id)
                 .ForeignKey("dbo.Address", t => t.Address_Id)
                 .ForeignKey("dbo.Contact", t => t.Contact_Id)
+                .ForeignKey("dbo.User", t => t.UserId, cascadeDelete: true)
+                .Index(t => t.UserId)
                 .Index(t => t.Address_Id)
                 .Index(t => t.Contact_Id);
             
@@ -172,44 +176,25 @@ namespace JobHunt.Data.Migrations
                         InsBy = c.String(),
                         UpdAt = c.DateTime(nullable: false),
                         UpdBy = c.String(),
-                        Employers_Id = c.Guid(),
+                        Employer_Id = c.Guid(),
                     })
                 .PrimaryKey(t => t.Id)
-                .ForeignKey("dbo.Employers", t => t.Employers_Id)
-                .Index(t => t.Employers_Id);
-            
-            CreateTable(
-                "dbo.Role",
-                c => new
-                    {
-                        Id = c.Guid(nullable: false, identity: true),
-                        Name = c.String(),
-                        Description = c.String(),
-                        IsDelete = c.Boolean(nullable: false),
-                        InsAt = c.DateTime(nullable: false),
-                        InsBy = c.String(),
-                        UpdAt = c.DateTime(nullable: false),
-                        UpdBy = c.String(),
-                    })
-                .PrimaryKey(t => t.Id);
+                .ForeignKey("dbo.Employers", t => t.Employer_Id)
+                .Index(t => t.Employer_Id);
             
             CreateTable(
                 "dbo.User",
                 c => new
                     {
                         Id = c.Guid(nullable: false, identity: true),
-                        Domain = c.String(),
                         UserName = c.String(),
                         DisplayName = c.String(),
                         FirstName = c.String(),
                         LastName = c.String(),
                         Email = c.String(),
-                        Department = c.String(),
-                        Organization = c.String(),
-                        Division = c.String(),
+                        Platform = c.String(),
                         ContactNumber = c.String(),
                         MobileNumber = c.String(),
-                        StaffNumber = c.String(),
                         Password = c.String(),
                         IsDelete = c.Boolean(nullable: false),
                         InsAt = c.DateTime(nullable: false),
@@ -219,36 +204,19 @@ namespace JobHunt.Data.Migrations
                     })
                 .PrimaryKey(t => t.Id);
             
-            CreateTable(
-                "dbo.UserRoles",
-                c => new
-                    {
-                        User_Id = c.Guid(nullable: false),
-                        Role_Id = c.Guid(nullable: false),
-                    })
-                .PrimaryKey(t => new { t.User_Id, t.Role_Id })
-                .ForeignKey("dbo.User", t => t.User_Id, cascadeDelete: true)
-                .ForeignKey("dbo.Role", t => t.Role_Id, cascadeDelete: true)
-                .Index(t => t.User_Id)
-                .Index(t => t.Role_Id);
-            
         }
         
         public override void Down()
         {
-            DropForeignKey("dbo.UserRoles", "Role_Id", "dbo.Role");
-            DropForeignKey("dbo.UserRoles", "User_Id", "dbo.User");
-            DropForeignKey("dbo.Job", "Employers_Id", "dbo.Employers");
+            DropForeignKey("dbo.Employers", "UserId", "dbo.User");
+            DropForeignKey("dbo.Job", "Employer_Id", "dbo.Employers");
             DropForeignKey("dbo.Employers", "Contact_Id", "dbo.Contact");
             DropForeignKey("dbo.Employers", "Address_Id", "dbo.Address");
-            DropIndex("dbo.UserRoles", new[] { "Role_Id" });
-            DropIndex("dbo.UserRoles", new[] { "User_Id" });
-            DropIndex("dbo.Job", new[] { "Employers_Id" });
+            DropIndex("dbo.Job", new[] { "Employer_Id" });
             DropIndex("dbo.Employers", new[] { "Contact_Id" });
             DropIndex("dbo.Employers", new[] { "Address_Id" });
-            DropTable("dbo.UserRoles");
+            DropIndex("dbo.Employers", new[] { "UserId" });
             DropTable("dbo.User");
-            DropTable("dbo.Role");
             DropTable("dbo.Job");
             DropTable("dbo.Employers");
             DropTable("dbo.EmailTemplate");

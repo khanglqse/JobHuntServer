@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
+using JobHunt.Data.Entities.Login;
 
 namespace JobHunt.Data.Entities.JobHunt
 {
     [Serializable]
     [Table("Employers")]
-    public class Employers : EntityBase
+    public class Employer : EntityBase
     {
         public string Name { get; set; }
         public string Title { get; set; }
@@ -19,6 +20,10 @@ namespace JobHunt.Data.Entities.JobHunt
         public int LongDescription { get; set; }
         public int Followers { get; set; }
         public Contact Contact { get; set; }
-        
+        public Guid UserId { get; set; }
+        [ForeignKey("UserId")]
+        public virtual User User { get; set; }
+
+
     }
 }

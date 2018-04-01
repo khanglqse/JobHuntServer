@@ -16,7 +16,7 @@ namespace JobHunt.Services.Services.Interfaces
   
         List<EmployerSearchResultViewModel> GetAll();
       Task<EmployerDetailViewModel> GetEmployerById(Guid Id);
-        Employers CreateEmployer();
+        Employer CreateEmployer();
         Task<PaginatedResult<EmployerSearchResultViewModel>> SearchEmployer(SearchEmployerModel model);
 
     }

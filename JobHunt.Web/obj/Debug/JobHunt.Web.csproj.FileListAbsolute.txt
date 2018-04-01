@@ -215,3 +215,5 @@ D:\Work\Demo\Server\JobHunt\JobHunt.Web\bin\System.Web.WebPages.Deployment.xml
 D:\Work\Demo\Server\JobHunt\JobHunt.Web\bin\System.Web.WebPages.Razor.xml
 D:\Work\Demo\Server\JobHunt\JobHunt.Web\bin\Antlr3.Runtime.pdb
 D:\Work\Demo\Server\JobHunt\JobHunt.Web\bin\Newtonsoft.Json.xml
+D:\Work\Demo\Server\JobHunt\JobHunt.Web\bin\Facebook.dll
+D:\Work\Demo\Server\JobHunt\JobHunt.Web\bin\Facebook.xml
